@@ -1,1 +1,3 @@
-
+*.socloud.sg
+*.netability.sg
+*.netability-cloud.sg
