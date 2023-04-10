@@ -36,3 +36,4 @@ github.io
 *.purestorage.com
 *.prod.hydra.sophos.com
 *.gov.sg
+*.emc.com
