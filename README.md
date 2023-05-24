@@ -32,3 +32,13 @@ https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_T
 CloudFlare
 
 https://www.cloudflare.com/ips/
+
+*************
+Google
+
+https://www.gstatic.com/ipranges/goog.json
+
+https://www.gstatic.com/ipranges/cloud.json
+
+Save the first google1.json and the second google2.json
+Run the python google_lists.py
