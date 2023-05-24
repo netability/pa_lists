@@ -90,7 +90,6 @@ provisioningapi.microsoftonline.com
 *.msftauthimages.net
 *.phonefactor.net
 enterpriseregistration.windows.net
-management.azure.com
 policykeyservice.dc.ad.msft.net
 *.compliance.microsoft.com
 *.protection.office.com
@@ -99,7 +98,6 @@ compliance.microsoft.com
 defender.microsoft.com
 protection.office.com
 security.microsoft.com
-account.office.net
 *.portal.cloudappsecurity.com
 *.blob.core.windows.net
 firstpartyapps.oaspapps.com
