@@ -38,3 +38,4 @@ github.io
 *.gov.sg
 *.emc.com
 www.chiark.greenend.org.uk
+the.earth.li
