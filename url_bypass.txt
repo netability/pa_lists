@@ -39,3 +39,4 @@ github.io
 *.emc.com
 www.chiark.greenend.org.uk
 the.earth.li
+downloads.jam-software.de
