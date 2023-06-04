@@ -49,3 +49,9 @@ https://www.gstatic.com/ipranges/cloud.json
 
 Save the first google1.json and the second google2.json
 Run the python google_lists.py
+
+
+*************
+Checkpoint IPs and URL
+
+https://support.checkpoint.com/results/sk/sk116590
