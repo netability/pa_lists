@@ -116,3 +116,4 @@ addx.co
 *.adibdirect.com
 *.addx.co
 *.aaib.com
+*.1password.com
