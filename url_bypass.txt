@@ -8,7 +8,7 @@ ksn^.kaspersky-labs.com
 teadv.checkpoint.com/Sophos
 *.checkpoint.com
 s3-1-w.amazonaws.com
-*.duo.com
+*.duosecurity.com
 *.windows.com
 *.windowsupdate.com
 *.nartac.com
