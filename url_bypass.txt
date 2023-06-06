@@ -119,3 +119,4 @@ addx.co
 *.1password.com
 *.spamassassin.org
 *.mcgrail.com
+*.clamav.net
