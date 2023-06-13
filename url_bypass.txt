@@ -120,3 +120,5 @@ addx.co
 *.spamassassin.org
 *.mcgrail.com
 *.clamav.net
+*.algebris.com
+*.turtlecreek.ca
