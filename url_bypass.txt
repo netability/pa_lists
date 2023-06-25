@@ -122,3 +122,4 @@ addx.co
 *.clamav.net
 go.algebris.com
 go.turtlecreek.ca
+*.wazuh.com
