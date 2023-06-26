@@ -125,3 +125,4 @@ go.turtlecreek.ca
 *.wazuh.com
 *.netwrix.com
 bam.nr-data.net
+*.docker.io
