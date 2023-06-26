@@ -123,3 +123,4 @@ addx.co
 go.algebris.com
 go.turtlecreek.ca
 *.wazuh.com
+*.netwrix.com
