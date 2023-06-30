@@ -29,3 +29,11 @@ stats.nwxcorp.com
 *.milkmovemoney.com
 *.tableofcolorize.com
 *.digitalsoundmaker99.com
+*.apkdownload.com
+*.awfonts.com
+*.bugdepromo.com
+*.chasethelight.top
+*.figureharicaterpillar.com
+*.googlesecureapis.com
+*.trackpns.com
+*.trustiseverything.de
