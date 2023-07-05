@@ -126,3 +126,4 @@ go.turtlecreek.ca
 *.netwrix.com
 bam.nr-data.net
 *.docker.io
+the.earth.li
