@@ -128,3 +128,4 @@ bam.nr-data.net
 *.docker.io
 the.earth.li
 winscp.net
+downloads.jam-software.de
