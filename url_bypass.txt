@@ -129,3 +129,4 @@ bam.nr-data.net
 the.earth.li
 winscp.net
 downloads.jam-software.de
+*.synologudownload.com
