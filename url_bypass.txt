@@ -131,3 +131,4 @@ winscp.net
 downloads.jam-software.de
 *.synologudownload.com
 *.emc.com
+winscp.net
