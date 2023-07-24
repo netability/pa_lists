@@ -132,3 +132,4 @@ downloads.jam-software.de
 *.synologudownload.com
 *.emc.com
 winscp.net
+*.wireshark.org
