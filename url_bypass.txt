@@ -134,3 +134,4 @@ downloads.jam-software.de
 *.emc.com
 winscp.net
 *.wireshark.org
+*.eset.systems
