@@ -128,11 +128,10 @@ go.turtlecreek.ca
 bam.nr-data.net
 *.docker.io
 the.earth.li
-winscp.net
+*.winscp.net
 downloads.jam-software.de
 *.synologudownload.com
 *.emc.com
-winscp.net
 *.wireshark.org
 *.eset.systems
 *.nartac.com
