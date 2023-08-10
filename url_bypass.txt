@@ -146,3 +146,4 @@ winscp.net
 *.algebris.com
 *.git.ch
 *.dell.com
+*.adobe.io
