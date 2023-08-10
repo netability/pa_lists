@@ -137,3 +137,12 @@ winscp.net
 *.wireshark.org
 *.eset.systems
 *.nartac.com
+*.gotoresolve.com
+*.intralinks.com
+*.wize.net
+*.action1.com
+*.checkpoint.com
+*.windowsupdate.com
+*.algebris.com
+*.git.ch
+*.dell.com
