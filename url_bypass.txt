@@ -171,3 +171,4 @@ downloads.jam-software.de
 slp-statics.astockcdn.net
 *.veeam.com
 *.ubnt.com
+*.grafana.com
