@@ -170,3 +170,4 @@ downloads.jam-software.de
 *.typekit.net
 slp-statics.astockcdn.net
 *.veeam.com
+*.ubnt.com
