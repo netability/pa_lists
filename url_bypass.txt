@@ -173,3 +173,4 @@ slp-statics.astockcdn.net
 *.ubnt.com
 *.grafana.com
 *-my.sharepoint.com
+netabilitysg0.sharepoint.com
