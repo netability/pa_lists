@@ -172,3 +172,4 @@ slp-statics.astockcdn.net
 *.veeam.com
 *.ubnt.com
 *.grafana.com
+*-my.sharepoint.com
