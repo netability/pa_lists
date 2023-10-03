@@ -174,3 +174,4 @@ slp-statics.astockcdn.net
 *.grafana.com
 *-my.sharepoint.com
 netabilitysg0.sharepoint.com
+software.payday.com.sg
