@@ -34,10 +34,7 @@
 *.wize.net
 *.github.com
 *.googleapis.com
-EU-vSEC-ASG-ALB-2115742625.eu-west-1.elb.amazonaws.com
-US-vSEC-ASG-ALB-448998794.us-east-1.elb.amazonaws.com
-endpoint-management-prd-alb-1052683977.ap-southeast-2.elb.amazonaws.com
-signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
+*.prod-eu.s3.amazonaws.com
 *.epmgmt.checkpoint.com
 *.astaro.com
 storage.googleapis.com/datatube-data-eu
