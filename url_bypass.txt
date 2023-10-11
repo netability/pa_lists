@@ -36,6 +36,7 @@
 *.googleapis.com
 *.prod-eu.s3.amazonaws.com
 *.epmgmt.checkpoint.com
+*.eu-west-1.elb.amazonaws.com
 *.astaro.com
 storage.googleapis.com/datatube-data-eu
 storage.googleapis.com/datatube-data-us
