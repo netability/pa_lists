@@ -176,3 +176,4 @@ slp-statics.astockcdn.net
 netabilitysg0.sharepoint.com
 software.payday.com.sg
 plugins.nessus.org
+download.advanced-ip-scanner.com
