@@ -177,3 +177,4 @@ netabilitysg0.sharepoint.com
 software.payday.com.sg
 plugins.nessus.org
 download.advanced-ip-scanner.com
+*.resource.mailboxmigration.his.msappproxy.net
