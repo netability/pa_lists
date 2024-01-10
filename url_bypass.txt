@@ -178,3 +178,4 @@ software.payday.com.sg
 plugins.nessus.org
 download.advanced-ip-scanner.com
 *.msappproxy.net
+*.wasabisys.com
