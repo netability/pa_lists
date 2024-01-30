@@ -179,3 +179,4 @@ plugins.nessus.org
 download.advanced-ip-scanner.com
 *.msappproxy.net
 *.wasabisys.com
+*.lens.poly.com
