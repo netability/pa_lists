@@ -180,3 +180,6 @@ download.advanced-ip-scanner.com
 *.msappproxy.net
 *.wasabisys.com
 *.lens.poly.com
+*.saxotrader.com
+*.saxobank.com
+sim.logonvalidation.net
