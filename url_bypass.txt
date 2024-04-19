@@ -183,3 +183,4 @@ download.advanced-ip-scanner.com
 *.saxotrader.com
 *.saxobank.com
 sim.logonvalidation.net
+privatebankonline.global.barclays
