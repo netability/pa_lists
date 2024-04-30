@@ -184,3 +184,4 @@ download.advanced-ip-scanner.com
 *.saxobank.com
 sim.logonvalidation.net
 privatebankonline.global.barclays
+singapore.themispartner.com
