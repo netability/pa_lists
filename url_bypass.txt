@@ -185,3 +185,4 @@ download.advanced-ip-scanner.com
 sim.logonvalidation.net
 privatebankonline.global.barclays
 singapore.themispartner.com
+embed.global
