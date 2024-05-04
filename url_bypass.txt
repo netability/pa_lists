@@ -186,3 +186,4 @@ sim.logonvalidation.net
 privatebankonline.global.barclays
 singapore.themispartner.com
 embed.global
+indy.fulgan.com
