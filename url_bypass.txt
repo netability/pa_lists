@@ -188,3 +188,4 @@ singapore.themispartner.com
 embed.global
 indy.fulgan.com
 trainingaglaia.trainingfamilyoperations.com
+*.sa-channels.mcgrail.com
