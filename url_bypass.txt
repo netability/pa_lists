@@ -189,3 +189,4 @@ embed.global
 indy.fulgan.com
 trainingaglaia.trainingfamilyoperations.com
 *.sa-channels.mcgrail.com
+*.7-zip.org
