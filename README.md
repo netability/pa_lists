@@ -47,7 +47,7 @@ https://www.gstatic.com/ipranges/goog.json
 
 https://www.gstatic.com/ipranges/cloud.json
 
-Save the first google1.json and the second google2.json
+Save the first goog.json and the second cloud.json
 Run the python google_lists.py
 
 
