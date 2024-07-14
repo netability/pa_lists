@@ -190,3 +190,4 @@ indy.fulgan.com
 trainingaglaia.trainingfamilyoperations.com
 *.sa-channels.mcgrail.com
 *.7-zip.org
+cdn-images.mailchimp.com
