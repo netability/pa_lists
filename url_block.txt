@@ -1,7 +1,4 @@
 # URL addresses to be blocked by PaloAlto
-*.citrixworkspacesapi.net
-stats.nwxcorp.com
-license.nwxcorp.com
 *.hong-security.com
 *.softowii.com
 *.2cedhihsepjtcpwuwes77cle5wb6ml7e5ys6ivsb4a4ivlrw2vc4wwad.onion
