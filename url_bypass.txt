@@ -189,3 +189,4 @@ trainingaglaia.trainingfamilyoperations.com
 *.7-zip.org
 cdn-images.mailchimp.com
 bits.avcdn.net
+*.citrixnetworkapi.net
