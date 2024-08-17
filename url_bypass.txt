@@ -190,3 +190,5 @@ trainingaglaia.trainingfamilyoperations.com
 cdn-images.mailchimp.com
 bits.avcdn.net
 *.citrixnetworkapi.net
+adm.cloud.com
+safehaven.adm.cloud.com
