@@ -192,3 +192,4 @@ bits.avcdn.net
 *.citrixnetworkapi.net
 adm.cloud.com
 safehaven.adm.cloud.com
+*.kam.sa-channels.mcgrail.com
