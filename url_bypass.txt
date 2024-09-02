@@ -4,6 +4,7 @@
 *.cisco.com
 *.cylance.com
 *.webex.com
+*.wbx2.com
 *.sophos.com
 *.duosecurity.com
 *.odoo.com
