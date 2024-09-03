@@ -5,6 +5,7 @@
 *.cylance.com
 *.webex.com
 *.wbx2.com
+*.webexconnect.com
 *.sophos.com
 *.duosecurity.com
 *.odoo.com
