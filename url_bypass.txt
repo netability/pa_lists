@@ -51,6 +51,7 @@ datatube-prod.azurewebsites.net
 us-east4-chkp-gcp-rnd-threat-hunt-box.cloudfunctions.net/prod-gcp-contractprovider
 clients2.googleusercontent.com
 clients2.google.com
+tools.google.com
 *.clamav.net
 *.matchpoint.com.es
 *.dubaichamber.com
