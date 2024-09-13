@@ -52,6 +52,7 @@ us-east4-chkp-gcp-rnd-threat-hunt-box.cloudfunctions.net/prod-gcp-contractprovid
 clients2.googleusercontent.com
 clients2.google.com
 tools.google.com
+dl.google.com
 *.clamav.net
 *.matchpoint.com.es
 *.dubaichamber.com
