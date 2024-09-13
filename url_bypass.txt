@@ -53,6 +53,7 @@ clients2.googleusercontent.com
 clients2.google.com
 tools.google.com
 dl.google.com
+chromeenterprise.google
 *.clamav.net
 *.matchpoint.com.es
 *.dubaichamber.com
