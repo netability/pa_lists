@@ -200,3 +200,4 @@ adm.cloud.com
 safehaven.adm.cloud.com
 *.kam.sa-channels.mcgrail.com
 *.fortinet.com
+*.cuglos.com
