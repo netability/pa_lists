@@ -200,3 +200,5 @@ safehaven.adm.cloud.com
 *.kam.sa-channels.mcgrail.com
 *.fortinet.com
 *.cuglos.com
+mask.icloud.com
+mask-h2.icloud.com
