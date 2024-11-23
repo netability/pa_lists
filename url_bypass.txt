@@ -202,3 +202,4 @@ safehaven.adm.cloud.com
 *.cuglos.com
 mask.icloud.com
 mask-h2.icloud.com
+download.gimp.org
