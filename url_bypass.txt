@@ -175,7 +175,7 @@ slp-statics.astockcdn.net
 *.ubnt.com
 *.grafana.com
 *-my.sharepoint.com
-netabilitysg0.sharepoint.com
+*.sharepoint.com
 software.payday.com.sg
 plugins.nessus.org
 download.advanced-ip-scanner.com
