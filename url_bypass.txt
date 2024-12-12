@@ -203,3 +203,4 @@ mask.icloud.com
 mask-h2.icloud.com
 download.gimp.org
 *.ugwdevice.net
+*.srv.ygles.com
