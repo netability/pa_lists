@@ -174,7 +174,6 @@ slp-statics.astockcdn.net
 *.veeam.com
 *.ubnt.com
 *.grafana.com
-*-my.sharepoint.com
 *.sharepoint.com
 software.payday.com.sg
 plugins.nessus.org
