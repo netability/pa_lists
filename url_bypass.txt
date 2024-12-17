@@ -205,3 +205,4 @@ download.gimp.org
 *.ugwdevice.net
 *.srv.ygles.com
 *.sin2.r.cloudfront.net
+*.beyondtrustcloud.com
