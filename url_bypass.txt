@@ -101,6 +101,7 @@ addx.co
 *.ocbc.com
 *.mohre.gov.ae
 *.juliusbaer.asia
+*.juliusbaer.com
 *.hsbc.com
 *.eset.com
 *.gov.sg
