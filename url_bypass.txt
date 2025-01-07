@@ -206,3 +206,4 @@ download.gimp.org
 *.srv.ygles.com
 *.sin2.r.cloudfront.net
 *.beyondtrustcloud.com
+*.am-one.asia
