@@ -208,3 +208,4 @@ download.gimp.org
 *.sin2.r.cloudfront.net
 *.beyondtrustcloud.com
 *.am-one.asia
+signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
