@@ -195,6 +195,7 @@ trainingaglaia.trainingfamilyoperations.com
 cdn-images.mailchimp.com
 bits.avcdn.net
 *.citrixnetworkapi.net
+*.adm.cloud.com
 adm.cloud.com
 safehaven.adm.cloud.com
 *.kam.sa-channels.mcgrail.com
@@ -210,3 +211,5 @@ download.gimp.org
 *.am-one.asia
 signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
 api.analytics.cloud.com
+Citrix.cloud.com
+Accounts.cloud.com
