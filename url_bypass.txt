@@ -213,3 +213,4 @@ signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
 api.analytics.cloud.com
 Citrix.cloud.com
 Accounts.cloud.com
+sensor.cloud.tenable.com
