@@ -209,3 +209,4 @@ download.gimp.org
 *.beyondtrustcloud.com
 *.am-one.asia
 signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
+api.analytics.cloud.com
