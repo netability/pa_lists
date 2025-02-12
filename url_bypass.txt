@@ -215,3 +215,4 @@ Citrix.cloud.com
 Accounts.cloud.com
 sensor.cloud.tenable.com
 *.mozilla.org
+*.signal.org
