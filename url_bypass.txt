@@ -217,3 +217,5 @@ sensor.cloud.tenable.com
 *.mozilla.org
 *.signal.org
 *.postgresql.org
+nectar.creative.com.sg
+sg-easypay.s3.ap-southeast-1.amazonaws.com
