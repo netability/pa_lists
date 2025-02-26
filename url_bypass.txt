@@ -219,3 +219,4 @@ sensor.cloud.tenable.com
 *.postgresql.org
 nectar.creative.com.sg
 sg-easypay.s3.ap-southeast-1.amazonaws.com
+*.theplatteringco.com
