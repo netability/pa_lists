@@ -220,3 +220,4 @@ sensor.cloud.tenable.com
 nectar.creative.com.sg
 sg-easypay.s3.ap-southeast-1.amazonaws.com
 *.theplatteringco.com
+downloads.dell.com
