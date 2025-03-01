@@ -211,8 +211,8 @@ download.gimp.org
 *.am-one.asia
 signed-packages-prod-eu.s3.eu-west-1.amazonaws.com
 api.analytics.cloud.com
-Citrix.cloud.com
-Accounts.cloud.com
+citrix.cloud.com
+accounts.cloud.com
 sensor.cloud.tenable.com
 *.mozilla.org
 *.signal.org
