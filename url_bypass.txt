@@ -229,3 +229,4 @@ urldefense.proofpoint.com
 *.rmmservice.com.au
 *.rmmservice.eu
 *.rmmservice.ca
+*.opnsense.org
