@@ -230,3 +230,4 @@ urldefense.proofpoint.com
 *.rmmservice.eu
 *.rmmservice.ca
 *.opnsense.org
+*.facebook.com
