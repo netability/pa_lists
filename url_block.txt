@@ -48,7 +48,6 @@ anhaidgroup.github.io
 app.leadershipflag.com
 *.awfonts.com
 bugdepromo.com
-cdn-images.mailchimp.com
 cpanel.waxdsign.com
 darnuid.imrworldwide.com
 disapprovalpulpdiscourteous.com
