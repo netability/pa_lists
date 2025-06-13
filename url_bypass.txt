@@ -231,3 +231,4 @@ urldefense.proofpoint.com
 *.rmmservice.ca
 *.opnsense.org
 *.facebook.com
+*.fbcdn.net
