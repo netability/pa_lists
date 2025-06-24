@@ -232,3 +232,4 @@ urldefense.proofpoint.com
 *.opnsense.org
 *.facebook.com
 *.fbcdn.net
+*.apple-dns.net
