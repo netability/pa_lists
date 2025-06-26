@@ -21,7 +21,6 @@
 *.citrix.com
 *.sophosxl.net
 *.namicsoft.com
-*.checkpoint.com
 *.action1.com
 *.microsoft.com
 *.sophosupd.net
@@ -71,8 +70,6 @@ translate.yandex.com
 *.nagios.org
 *.nagios.com
 *.adibdirect.com
-esrs3-core.emc.com
-dl.dell.com
 *.purestorage.com
 myaccount.du.ae
 *.emicool.com
@@ -142,8 +139,6 @@ downloads.jam-software.de
 *.intralinks.com
 *.wize.net
 *.action1.com
-*.checkpoint.com
-*.windowsupdate.com
 *.algebris.com
 *.git.ch
 *.dell.com
@@ -233,3 +228,4 @@ urldefense.proofpoint.com
 *.facebook.com
 *.fbcdn.net
 *.apple-dns.net
+*.bangkokpost.com
