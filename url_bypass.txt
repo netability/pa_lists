@@ -229,4 +229,5 @@ urldefense.proofpoint.com
 *.fbcdn.net
 *.apple-dns.net
 *.bangkokpost.com
-*.kianann.com.sg
+*.tresorit.com
+tresorit.com
