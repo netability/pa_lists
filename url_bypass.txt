@@ -17,6 +17,7 @@
 *.1passwordservices.com
 *.asiaconnect.com
 *.ubuntu.com
+*.archive.ubuntu.com
 *.snapcraft.io
 *.citrix.com
 *.sophosxl.net
