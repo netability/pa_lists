@@ -231,3 +231,8 @@ urldefense.proofpoint.com
 *.bangkokpost.com
 *.tresorit.com
 tresorit.com
+*.whatsapp.net
+*.whatsapp.com
+*.facebook.com
+*.fbcdn.net
+*.cdninstagram.com
