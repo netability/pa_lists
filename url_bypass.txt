@@ -95,6 +95,7 @@ addx.co
 *.juliusbaer.asia
 *.juliusbaer.com
 *.hsbc.com
+*.hsbc.com.hk
 *.eset.com
 *.gov.sg
 *.gov.ae
@@ -105,6 +106,7 @@ addx.co
 *.dib.ae
 *.dbs.com.sg
 *.dbs.com
+*.posb.com.sg
 *.bir.gov.ph
 *.bankalfalah.com
 *.agc.gov.sg
