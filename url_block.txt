@@ -80,3 +80,4 @@ suedxcapuertggando.ddns.net
 *.jankoors.com
 *.yableenta.com
 us.ipxon.net
+tdesktop.telega.one
