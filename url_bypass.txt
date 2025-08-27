@@ -16,16 +16,13 @@
 *.1passwordservices.com
 *.asiaconnect.com
 *.ubuntu.com
-*.archive.ubuntu.com
 *.snapcraft.io
 *.citrix.com
 *.sophosxl.net
 *.namicsoft.com
 *.action1.com
-*.microsoft.com
 *.sophosupd.net
 *.sophosupd.com
-*.akamai.net
 *.vmware.com
 *.nist.gov
 *.nus.edu.sg
@@ -59,10 +56,8 @@ chromeenterprise.google
 *.boolebox.com
 *.myracloud.com
 *.ezv.admin.ch
-*.1e100.net
 *.petropower.ae
 *.bilanzauditing.com
-myubp-play.com
 *.dib.ae
 translate.yandex.com
 *.butler.veeam.com
