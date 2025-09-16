@@ -233,3 +233,8 @@ tresorit.com
 *.facebook.com
 *.fbcdn.net
 *.cdninstagram.com
+copilot.microsoft.com
+*.copilot.microsoft.com
+*.bing.com
+*.bingapis.com
+*.cloud.microsoft
