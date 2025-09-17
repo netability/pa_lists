@@ -238,3 +238,5 @@ copilot.microsoft.com
 *.bing.com
 *.bingapis.com
 *.cloud.microsoft
+*.ottoristorante.com.sg
+ottoristorante.com.sg
