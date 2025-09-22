@@ -2,6 +2,7 @@
 *.bloomberg.net
 *.fbcdn.net
 *.cisco.com
+*.meraki.com
 *.webex.com
 *.wbx2.com
 *.webexconnect.com
