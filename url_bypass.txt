@@ -241,3 +241,4 @@ copilot.microsoft.com
 *.cloud.microsoft
 *.ottoristorante.com.sg
 ottoristorante.com.sg
+update.sage.com
