@@ -243,3 +243,4 @@ copilot.microsoft.com
 ottoristorante.com.sg
 update.sage.com
 www.7-zip.org
+*.asap-utilities.com
