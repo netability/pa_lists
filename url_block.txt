@@ -58,7 +58,6 @@ endpoints.taniumanalytics.workers.dev
 eul.concurscluticn.com
 lassampy.com
 maps.ggole.com
-msg.qy.net
 mxsvd01.wadax.ne.jp
 pageup-trk.r7ty.info
 pentacle2.netdns.net
