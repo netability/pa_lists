@@ -234,14 +234,13 @@ tresorit.com
 *.facebook.com
 *.fbcdn.net
 *.cdninstagram.com
-copilot.microsoft.com
-*.copilot.microsoft.com
 *.bing.com
 *.bingapis.com
 *.cloud.microsoft
 *.ottoristorante.com.sg
 ottoristorante.com.sg
 update.sage.com
-www.7-zip.org
+*.7-zip.org
 *.asap-utilities.com
 *.fujifilm.com
+*.c-wss.com
