@@ -244,3 +244,5 @@ update.sage.com
 *.asap-utilities.com
 *.fujifilm.com
 *.c-wss.com
+gwsupport.bomgar.com
+btupdate.com
