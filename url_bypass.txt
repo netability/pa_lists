@@ -246,3 +246,4 @@ update.sage.com
 *.c-wss.com
 gwsupport.bomgar.com
 btupdate.com
+*.psbadvisory.com
