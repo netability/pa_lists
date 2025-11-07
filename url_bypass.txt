@@ -256,4 +256,5 @@ clients2.google.com
 tools.google.com
 dl.google.com
 chromeenterprise.google
-*.yealink.com
+www.yealink.com
+yealink.com
