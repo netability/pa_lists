@@ -258,3 +258,4 @@ dl.google.com
 chromeenterprise.google
 www.yealink.com
 yealink.com
+*.ezesoftcloud.com
