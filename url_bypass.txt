@@ -185,6 +185,7 @@ safehaven.adm.cloud.com
 *.cuglos.com
 mask.icloud.com
 mask-h2.icloud.com
+gateway.icloud.com
 download.gimp.org
 *.ugwdevice.net
 *.srv.ygles.com
