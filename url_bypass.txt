@@ -1,5 +1,8 @@
 *.socloud.sg
-*.bloomberg.net
+*.bloomberg.net 
+*.bloomberg.com 
+*.blpprofessional.com 
+*.btogo.com 
 *.fbcdn.net
 *.cisco.com
 *.meraki.com
