@@ -264,3 +264,7 @@ www.yealink.com
 yealink.com
 *.ezesoftcloud.com
 vatossg.com
+*.teamviewer.com
+*.teamviewerapi.com
+*.logmeinrescue.com
+*.cloudfront.net
