@@ -269,3 +269,4 @@ vatossg.com
 *.logmeinrescue.com
 *.cloudfront.net
 *.amazonaws.com
+tools.audiocodes.com
