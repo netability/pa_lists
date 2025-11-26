@@ -268,3 +268,4 @@ vatossg.com
 *.teamviewerapi.com
 *.logmeinrescue.com
 *.cloudfront.net
+*.amazonaws.com
