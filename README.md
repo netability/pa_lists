@@ -55,3 +55,8 @@ Run the python google_lists.py
 Checkpoint IPs and URL
 
 https://support.checkpoint.com/results/sk/sk116590
+
+*************
+Apple IPs and URL
+
+Run python apple.py he will generate 2 files
