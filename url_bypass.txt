@@ -270,3 +270,4 @@ vatossg.com
 *.cloudfront.net
 *.amazonaws.com
 tools.audiocodes.com
+filedownload.csw.lenovo.com
