@@ -27,6 +27,7 @@ https://help.duo.com/s/article/1337?language=en_US
 Proofpoint
 
 https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_Topics/000_gettingstarted/020_connectiondetails
+https://help.proofpoint.com/Essentials/Product_Documentation/Email_Security/Mail_Services/01_Connection_Details
 
 *************
 CloudFlare
