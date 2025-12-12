@@ -5,7 +5,7 @@ Microsoft 365
 
 https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7
 
-Save the file worldwide.json and run the python microsoft_lists.py, you will have 2 files ip and url
+Save the file worldwide.json and run the python fetch_microsoft_lists.py, you will have 2 files ip and url
 
 *************
 AWS
@@ -31,12 +31,14 @@ https://help.proofpoint.com/Essentials/Product_Documentation/Email_Security/Mail
 Copy source: Right-click on the page > View Page Source (or Ctrl+U). Select all (Ctrl+A) > Copy (Ctrl+C).
 Save file: Open Notepad > Paste (Ctrl+V) > Save As > Name it exactly proofpoint_page.html > In the same folder as this Python script.
 
-Run python proofpoint.py
+Run python fetch_proofpoint_list.py
 
 *************
 CloudFlare
 
 https://www.cloudflare.com/ips/
+
+Run the python fetch_cloudfalre.py
 
 *************
 Manual Block IPs or URLs - Follow MAS or urgent
@@ -53,7 +55,7 @@ https://www.gstatic.com/ipranges/goog.json
 https://www.gstatic.com/ipranges/cloud.json
 
 Save the first goog.json and the second cloud.json
-Run the python google_lists.py
+Run the python fetch_google_lists.py
 
 
 *************
@@ -64,4 +66,4 @@ https://support.checkpoint.com/results/sk/sk116590
 *************
 Apple IPs and URL
 
-Run python apple.py he will generate 2 files
+Run python fetch_apple_list.py he will generate 2 files
