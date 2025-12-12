@@ -26,8 +26,12 @@ https://help.duo.com/s/article/1337?language=en_US
 *************
 Proofpoint
 
-https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_Topics/000_gettingstarted/020_connectiondetails
+https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_Topics/000_gettingstarted/020_connectiondetails (not in use)
 https://help.proofpoint.com/Essentials/Product_Documentation/Email_Security/Mail_Services/01_Connection_Details
+Copy source: Right-click on the page > View Page Source (or Ctrl+U). Select all (Ctrl+A) > Copy (Ctrl+C).
+Save file: Open Notepad > Paste (Ctrl+V) > Save As > Name it exactly proofpoint_page.html > In the same folder as this Python script.
+
+Run python proofpoint.py
 
 *************
 CloudFlare
