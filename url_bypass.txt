@@ -272,3 +272,5 @@ vatossg.com
 tools.audiocodes.com
 filedownload.csw.lenovo.com
 *.bankfab.com
+cdn.appdynamics.com
+fra-col.eum-appdynamics.com
