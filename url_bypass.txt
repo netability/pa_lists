@@ -271,3 +271,4 @@ vatossg.com
 *.amazonaws.com
 tools.audiocodes.com
 filedownload.csw.lenovo.com
+fabeaccess.bankfab.com
