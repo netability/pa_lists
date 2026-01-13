@@ -291,3 +291,4 @@ cognito-identity.us-west-2.amazonaws.com
 a20sc2usy86t4y-ats.iot.us-west-2.amazonaws.com
 uw2-oip-extacs.s3.us-west-2.amazonaws.com
 treeview.co.uk
+*.sgp.cdn77.com
