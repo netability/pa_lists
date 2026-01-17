@@ -217,7 +217,6 @@ urldefense.proofpoint.com
 *.rmmservice.ca
 *.opnsense.org
 *.facebook.com
-*.fbcdn.net
 *.apple-dns.net
 *.bangkokpost.com
 *.tresorit.com
@@ -225,7 +224,6 @@ tresorit.com
 *.whatsapp.net
 *.whatsapp.com
 *.facebook.com
-*.fbcdn.net
 *.cdninstagram.com
 *.bing.com
 *.bingapis.com
@@ -292,3 +290,4 @@ a20sc2usy86t4y-ats.iot.us-west-2.amazonaws.com
 uw2-oip-extacs.s3.us-west-2.amazonaws.com
 treeview.co.uk
 *.sgp.cdn77.com
+*.static.akamaitechnologies.com
