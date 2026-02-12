@@ -307,3 +307,4 @@ ntp.dattobackup.com
 dlt-rly-*.datto.com
 fra-rly-*.datto.com
 syd-rly-*.datto.com
+*.azurecr.io
