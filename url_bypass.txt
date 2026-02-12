@@ -298,4 +298,12 @@ cdn.malware.expert
 *.dattobackup.com
 *.datto.io
 *.infocyte.com
+python.map.fastly.net
 *.dattolocal.net
+*.dattoweb.com
+device-packages.dattobackup.com
+device-images.datto.com
+ntp.dattobackup.com
+dlt-rly-*.datto.com
+fra-rly-*.datto.com
+syd-rly-*.datto.com
