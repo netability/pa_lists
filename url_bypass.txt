@@ -308,3 +308,7 @@ dlt-rly-*.datto.com
 fra-rly-*.datto.com
 syd-rly-*.datto.com
 *.azurecr.io
+claude.com
+*.claude.com
+claude.ai
+*.claude.ai
