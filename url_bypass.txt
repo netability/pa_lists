@@ -95,6 +95,9 @@ myaccount.du.ae
 *.netwrix.com
 pkg.opnsense.org
 *.opnsense.org
+mirror.ntct.edu.tw
+mirror.wdc1.us.leaseweb.net
+mirror.sfo12.us.leaseweb.net
 *.nagios.org
 *.nagios.com
 *.eset.com
