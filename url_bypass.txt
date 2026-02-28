@@ -93,6 +93,7 @@ myaccount.du.ae
 *.purestorage.com
 *.wazuh.com
 *.netwrix.com
+pkg.opnsense.org
 *.opnsense.org
 *.nagios.org
 *.nagios.com
