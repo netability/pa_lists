@@ -317,3 +317,4 @@ claude.com
 claude.ai
 *.claude.ai
 desktop.marcuardheritage.com
+downloads.solarwinds.com
