@@ -319,3 +319,5 @@ claude.ai
 desktop.marcuardheritage.com
 downloads.solarwinds.com
 mshybridservice.trafficmanager.net
+*.orchardorthosports.com
+*.stargolf.com.sg
