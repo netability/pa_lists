@@ -80,3 +80,4 @@ suedxcapuertggando.ddns.net
 *.yableenta.com
 us.ipxon.net
 tdesktop.telega.one
+*.vnpt.vn
