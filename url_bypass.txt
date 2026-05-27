@@ -316,6 +316,7 @@ claude.com
 *.claude.com
 claude.ai
 *.claude.ai
+*.anthropic.com
 desktop.marcuardheritage.com
 downloads.solarwinds.com
 mshybridservice.trafficmanager.net
