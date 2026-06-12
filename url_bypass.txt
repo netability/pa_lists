@@ -352,3 +352,4 @@ platform.eu.anduin.app
 gondor-eu-temp-upload-production.s3.eu-west-1.amazonaws.com
 integrations.eu.anduin.app
 integration-platform.eu.anduin.app
+*.ftportfolios.com
