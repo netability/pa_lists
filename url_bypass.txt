@@ -356,3 +356,4 @@ integration-platform.eu.anduin.app
 get.enterprisedb.com
 isca.org.sg
 *.isca.org.sg
+vision.ssnc.cloud
