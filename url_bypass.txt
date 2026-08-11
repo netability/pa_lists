@@ -354,3 +354,5 @@ integrations.eu.anduin.app
 integration-platform.eu.anduin.app
 *.ftportfolios.com
 get.enterprisedb.com
+isca.org.sg
+*.isca.org.sg
