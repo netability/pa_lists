@@ -234,3 +234,4 @@ www.msftconnecttest.com
 www.onedrive.com
 www.outlook.com
 www.sway.com
+onegetcdn.azureedge.net
