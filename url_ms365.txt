@@ -58,6 +58,7 @@
 *.portal.cloudappsecurity.com
 *.powerapps.com
 *.powerautomate.com
+*.powershellgallery.com
 *.protection.office.com
 *.protection.outlook.com
 *.public-trust.com
@@ -113,6 +114,7 @@ autodiscover.*.onmicrosoft.com
 autodiscover.outlook.com
 autologon.microsoftazuread-sso.com
 az416426.vo.msecnd.net
+az818661.vo.msecnd.net
 becws.microsoftonline.com
 c.bing.com
 c.bing.net
@@ -121,6 +123,8 @@ c1.microsoft.com
 cacerts.digicert.com
 ccs.login.microsoftonline.com
 cdn.odc.officeapps.live.com
+cdn.oneget.org
+cdn.powershellgallery.com
 cdn.uci.officeapps.live.com
 cert.int-x3.letsencrypt.org
 clientconfig.microsoftonline-p.net
@@ -136,6 +140,7 @@ crl4.digicert.com
 dc.services.visualstudio.com
 defender.microsoft.com
 device.login.microsoftonline.com
+devopsgallerystorage.blob.core.windows.net
 dgps.support.microsoft.com
 docs.microsoft.com
 domains.live.com
@@ -186,6 +191,7 @@ officepreviewredir.microsoft.com
 officeredir.microsoft.com
 officespeech.platform.bing.com
 oneclient.sfx.ms
+onegetcdn.azureedge.net
 oneocsp.microsoft.com
 otelrules.azureedge.net
 outlook.cloud.microsoft
@@ -199,6 +205,8 @@ policykeyservice.dc.ad.msft.net
 prod.msocdn.com
 protection.office.com
 provisioningapi.microsoftonline.com
+psg-prod-centralus.azureedge.net
+psg-prod-eastus.azureedge.net
 purview.microsoft.com
 r.office.microsoft.com
 s-microsoft.com
@@ -234,4 +242,3 @@ www.msftconnecttest.com
 www.onedrive.com
 www.outlook.com
 www.sway.com
-onegetcdn.azureedge.net
