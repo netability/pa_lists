@@ -357,3 +357,5 @@ get.enterprisedb.com
 isca.org.sg
 *.isca.org.sg
 vision.ssnc.cloud
+centralbank.ae
+*.centralbank.ae
