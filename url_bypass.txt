@@ -359,3 +359,4 @@ isca.org.sg
 vision.ssnc.cloud
 centralbank.ae
 *.centralbank.ae
+*.lencr.org
