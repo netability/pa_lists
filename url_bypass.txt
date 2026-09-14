@@ -64,6 +64,7 @@ ssm.com.my
 *.bloomberg.com
 *.blpprofessional.com
 *.btogo.com
+*.bloomberg-quant.com
 *.asiaconnect.com
 *.matchpoint.com.es
 *.dubaichamber.com
