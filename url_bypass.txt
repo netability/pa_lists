@@ -364,3 +364,4 @@ centralbank.ae
 ossmirror.mycloud.services
 thepawkeeper.com
 eservices.tax.gov.ae
+*.tallysolutions.com
