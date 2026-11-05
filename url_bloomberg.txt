@@ -1,0 +1,4 @@
+*.bloomberg.net
+*.bloomberg.com
+*.blpprofessional.com
+*.btogo.com
