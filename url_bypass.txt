@@ -370,3 +370,4 @@ balancer11.netdania.com
 *.printix.net
 *.keychron.com
 *.kyoceradocumentsolutions.com
+*.fingertec.com
